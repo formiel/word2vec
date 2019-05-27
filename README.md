@@ -7,9 +7,7 @@ Email: hangtp.le@gmail.com
 
 Note: currently only skip-gram with negative sampling is implemented. CBOW and more advanced features will be added in the future.
 
-# Running the code
-
-The code is run in the terminal using the following syntax:
+The code is run in the terminal using the following syntax.
 
 ## Train the model
 In the train mode, running the below line will train using the training corpus and save
