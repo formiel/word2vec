@@ -5,6 +5,8 @@ Author: Hang LE
 
 Email: hangtp.le@gmail.com
 
+For further details, please check out my blog post of [Understanding Word Vectors and Implementing Skip-gram with Negative Sampling](https://hangle.fr/post/word2vec/).
+
 Note: currently only skip-gram with negative sampling is implemented. CBOW and more advanced features will be added in the future.
 
 The code is run in the terminal using the following syntax.
